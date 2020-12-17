@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "meancurd"
+    }
+  },
+  "defaultProject": "meancurd",
+  "cli": {
+    "analytics": "92d5acf0-e4b4-4520-8087-11d261ea2a02"
+  }
 }
